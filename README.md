@@ -25,7 +25,7 @@ Thank you for your time!
 
 ============================================================
 
-```Follow up message:``
+``Follow up message:``
 
 Template 2: Hi [Name], I wanted to follow up on the [Job Title]
 opportunity at [Company Name]. I'm very interested in the role
